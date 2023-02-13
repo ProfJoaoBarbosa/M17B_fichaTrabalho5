@@ -1,5 +1,7 @@
 package psi_11_o.m17b_fichatrabalho5;
 
+// João Barbosa 13.02.2023
+
 public class Ponto2D {
     private int x;
     private int y;
