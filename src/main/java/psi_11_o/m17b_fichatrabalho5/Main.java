@@ -1,4 +1,8 @@
 package psi_11_o.m17b_fichatrabalho5;
+/**
+ * 
+ * @author João Barbosa, 11.º O, 2022/2023
+ */
 
 public class Main {
 
