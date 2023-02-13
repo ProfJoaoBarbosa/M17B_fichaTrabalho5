@@ -27,8 +27,12 @@ public class Ponto2D {
         return "Ponto2D[" + getX() + "," + getY() + "]";
     }    
 
+    /*
+    Comentário <i>normal</i>
+    */
+    
     /**
-     * @return o valor do atributo x
+     * @return o valor do <i>atributo</i> x
      */
     public int getX() {
         return x;
