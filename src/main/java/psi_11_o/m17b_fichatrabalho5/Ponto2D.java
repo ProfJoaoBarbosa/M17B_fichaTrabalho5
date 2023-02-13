@@ -28,7 +28,7 @@ public class Ponto2D {
     }    
 
     /**
-     * @return the x
+     * @return o valor do atributo x
      */
     public int getX() {
         return x;
